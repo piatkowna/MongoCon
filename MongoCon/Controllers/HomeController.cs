@@ -7,7 +7,7 @@ using MongoDB.Bson;
 using MongoDB.Driver;
 using MongoCon.Properties;
 using MongoCon.Models;
-using MongoCon.App_Start;
+using MongoCon.DAL;
 
 namespace MongoCon.Controllers
 {

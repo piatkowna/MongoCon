@@ -3,7 +3,7 @@ using MongoCon.Properties;
 using MongoDB.Driver;
 using System.Configuration;
 
-namespace MongoCon.App_Start
+namespace MongoCon.DAL
 {
     public class DbContext
     {

@@ -3,7 +3,7 @@ using System.Net;
 using System.Web.Mvc;
 using MongoCon.Models;
 using MongoDB.Driver;
-using MongoCon.App_Start;
+using MongoCon.DAL;
 
 namespace MongoCon.Controllers
 {
