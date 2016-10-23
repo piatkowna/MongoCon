@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoCon", "MongoCon\MongoCon.csproj", "{B87EDFB2-CBD1-48E5-9D91-BA98F95F3BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoCon.Tests", "MongoCon.Tests\MongoCon.Tests.csproj", "{AAEFDDFD-6205-4471-B60B-BE57F2C2778A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugAzure|Any CPU = DebugAzure|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87EDFB2-CBD1-48E5-9D91-BA98F95F3BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87EDFB2-CBD1-48E5-9D91-BA98F95F3BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87EDFB2-CBD1-48E5-9D91-BA98F95F3BA6}.DebugAzure|Any CPU.ActiveCfg = DebugAzure|Any CPU
+		{B87EDFB2-CBD1-48E5-9D91-BA98F95F3BA6}.DebugAzure|Any CPU.Build.0 = DebugAzure|Any CPU
+		{B87EDFB2-CBD1-48E5-9D91-BA98F95F3BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87EDFB2-CBD1-48E5-9D91-BA98F95F3BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAEFDDFD-6205-4471-B60B-BE57F2C2778A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEFDDFD-6205-4471-B60B-BE57F2C2778A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEFDDFD-6205-4471-B60B-BE57F2C2778A}.DebugAzure|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEFDDFD-6205-4471-B60B-BE57F2C2778A}.DebugAzure|Any CPU.Build.0 = Debug|Any CPU
+		{AAEFDDFD-6205-4471-B60B-BE57F2C2778A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEFDDFD-6205-4471-B60B-BE57F2C2778A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
